@@ -1,5 +1,7 @@
+import OrderBookDataTable from "./components/OrderBookDataTable";
+
 function App() {
-  return <div>App</div>;
+  return <OrderBookDataTable />;
 }
 
 export default App;
